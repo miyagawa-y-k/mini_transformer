@@ -1,2 +1,1 @@
-this is mini transformer.
-Refer to https://tech.gmogshd.com/transformer/ .
+ここでは、https://tech.gmogshd.com/transformer/ を参考にmini transformerの実装を行います。
